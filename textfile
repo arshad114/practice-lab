@@ -1,0 +1,7 @@
+yum install git 
+which git
+git status
+git init
+git config 
+git add
+git commit-m
